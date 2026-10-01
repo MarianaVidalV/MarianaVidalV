@@ -43,8 +43,8 @@ Minha formação em **Análise e Desenvolvimento de Sistemas** também contribui
 
 <div align="left">
 
-<a href="https://www.figma.com/">
-<img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma"/>
+<a href="https://www.figma.com/figjam/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="40" height="40" alt="FigJam"/>
 </a>
 &nbsp;&nbsp;
 
@@ -115,13 +115,13 @@ Minha formação em **Análise e Desenvolvimento de Sistemas** também contribui
 </a>
 &nbsp;&nbsp;
 
-<a href="https://openai.com/chatgpt/">
-<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT"/>
+<a href="https://chatgpt.com/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" height="40" alt="ChatGPT"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://lovable.dev/">
-<img src="https://cdn.simpleicons.org/lovable" width="40" height="40" alt="Lovable"/>
+<img src="https://lovable.dev/favicon.ico" width="40" height="40" alt="Lovable"/>
 </a>
 &nbsp;&nbsp;
 
