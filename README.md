@@ -2,8 +2,6 @@
 
 <br>
 
-# Mariana Vidal
-
 ### Product Designer · UI/UX
 
 Crio e evoluo produtos digitais, interfaces e experiências
@@ -19,7 +17,7 @@ para web e mobile.
   <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://marianavidalv.github.io/portfolio/projeto.html?p=univerza">
+<a href="https://www.behance.net/marividalv">
   <img src="https://img.shields.io/badge/BEHANCE-18181B?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
@@ -35,36 +33,28 @@ Sou **Product Designer (UI/UX)** e atuo na criação e evolução de produtos di
 
 Trabalho com **UX Research, fluxos, arquitetura da informação, prototipação, usabilidade, acessibilidade e Design Systems**, participando desde a exploração inicial até a criação das interfaces e implementação das soluções.
 
-Minha formação em **Análise e Desenvolvimento de Sistemas** também me aproxima da área de tecnologia e desenvolvimento, contribuindo para uma colaboração mais eficiente com times técnicos e para decisões considerando viabilidade.
+Minha formação em **Análise e Desenvolvimento de Sistemas** também contribui para uma visão próxima de tecnologia e para uma colaboração mais eficiente com times de desenvolvimento.
 
 ---
 
-## Design
+## Ferramentas
+
+### Design
 
 <div align="left">
 
 <a href="https://www.figma.com/">
-<img src="https://cdn.simpleicons.org/figma" width="42" height="42" alt="Figma"/>
+<img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.figma.com/figjam/">
-<img src="https://cdn.simpleicons.org/figjam" width="42" height="42" alt="FigJam"/>
+<img src="https://cdn.simpleicons.org/figjam" width="40" height="40" alt="FigJam"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.framer.com/">
-<img src="https://cdn.simpleicons.org/framer" width="42" height="42" alt="Framer"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://cdn.simpleicons.org/adobephotoshop" width="42" height="42" alt="Photoshop"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.adobe.com/products/illustrator.html">
-<img src="https://cdn.simpleicons.org/adobeillustrator" width="42" height="42" alt="Illustrator"/>
+<img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer"/>
 </a>
 
 </div>
@@ -75,20 +65,38 @@ Minha formação em **Análise e Desenvolvimento de Sistemas** também me aproxi
 
 ---
 
-## Produto & UX
+### Research & Produto
 
 <div align="left">
 
-<img src="https://cdn.simpleicons.org/googlesheets" width="38" height="38" alt="Google Sheets"/>
+<a href="https://maze.co/">
+<img src="https://cdn.simpleicons.org/maze" width="40" height="40" alt="Maze"/>
+</a>
 &nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/notion" width="38" height="38" alt="Notion"/>
+<a href="https://www.hotjar.com/">
+<img src="https://cdn.simpleicons.org/hotjar" width="40" height="40" alt="Hotjar"/>
+</a>
 &nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/miro" width="38" height="38" alt="Miro"/>
+<a href="https://dovetail.com/">
+<img src="https://cdn.simpleicons.org/dovetail" width="40" height="40" alt="Dovetail"/>
+</a>
 &nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/linear" width="38" height="38" alt="Linear"/>
+<a href="https://www.notion.so/">
+<img src="https://cdn.simpleicons.org/notion" width="40" height="40" alt="Notion"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://linear.app/">
+<img src="https://cdn.simpleicons.org/linear" width="40" height="40" alt="Linear"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://miro.com/">
+<img src="https://cdn.simpleicons.org/miro" width="40" height="40" alt="Miro"/>
+</a>
 
 </div>
 
@@ -98,58 +106,27 @@ Minha formação em **Análise e Desenvolvimento de Sistemas** também me aproxi
 
 ---
 
-## Desenvolvimento
-
-<div align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://cdn.simpleicons.org/html5" width="42" height="42" alt="HTML"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://cdn.simpleicons.org/css" width="42" height="42" alt="CSS"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.simpleicons.org/javascript" width="42" height="42" alt="JavaScript"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://react.dev/">
-<img src="https://cdn.simpleicons.org/react" width="42" height="42" alt="React"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/">
-<img src="https://cdn.simpleicons.org/github" width="42" height="42" alt="GitHub"/>
-</a>
-
-</div>
-
-<br>
-
-`HTML` · `CSS` · `JavaScript` · `React` · `GitHub`
-
----
-
-## AI & ferramentas
+### AI & Workflow
 
 <div align="left">
 
 <a href="https://claude.ai/">
-<img src="https://cdn.simpleicons.org/anthropic" width="42" height="42" alt="Claude"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://openai.com/chatgpt/">
-<img src="https://cdn.simpleicons.org/openai" width="42" height="42" alt="ChatGPT"/>
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://lovable.dev/">
-<img src="https://cdn.simpleicons.org/lovable" width="42" height="42" alt="Lovable"/>
+<img src="https://cdn.simpleicons.org/lovable" width="40" height="40" alt="Lovable"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/">
+<img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
 </a>
 
 </div>
@@ -176,7 +153,7 @@ Aplicativo mobile para centralizar comunicação e interação no ambiente unive
 <br>
 
 <a href="https://marianavidalv.github.io/portfolio/projeto.html?p=univerza">
-Ver projeto → 
+Ver projeto →
 </a>
 
 </td>
@@ -262,7 +239,7 @@ Aberta a oportunidades **CLT · PJ · Freelance**
 <br>
 
 <a href="mailto:marianavidalvaz23@gmail.com">
-<img src="https://img.shields.io/badge/ENTRAR_EM_CONTATO-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENTRAR_EM_CONTATO-8B5CF6?style=for-the-badge&logoColor=white" />
 </a>
 
 <br><br>
